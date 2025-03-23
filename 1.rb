@@ -38,3 +38,4 @@ def new_string (st1,st2)
     end
 
 p new_string("あああ","あああ")
+
